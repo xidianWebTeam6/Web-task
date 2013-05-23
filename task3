@@ -75,4 +75,10 @@ ii．	实现用户模块中的推荐系统。根据用户的一些列属性为�
 iii．	完成用户的搜索功能。首先实现简单查找，通过输入关键字对网页内的各自活动进行筛选；其次实现高级查找，用户可通过点击高级查找按钮在弹出的高级查找框中输入详细参数进行查找。
 iv．	实现用户的站内邮箱。
 
-
+ 
+                                             设备运行环境
+                                             
+操作系统：Microsoft Windows XP、Windows 7、Windows 8.
+浏览器：  IExplore 8.0以上
+插件：    Adobe Flash Player 10 ActiveX
+数 据 库：Microsoft SQL Server 2008
