@@ -10,7 +10,7 @@ Web-task
 [1]:http://ww3.sinaimg.cn/bmiddle/6541fc49gw1e51ghu62xaj20m80got9h.jpg
 
 ![图片][2]
-[2]:http://ww3.sinaimg.cn/mw690/93ec7a47tw1e55ir6iw8vj20h90eggnj.jpg
+[2]:file:///C:/Users/Templar/Desktop/QQ%E6%88%AA%E5%9B%BE20130529220633.jpg
 
 
 
