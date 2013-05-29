@@ -9,7 +9,8 @@ Web-task
 ![图灵社区Logo][1]
 [1]:http://ww3.sinaimg.cn/bmiddle/6541fc49gw1e51ghu62xaj20m80got9h.jpg
 
-
+![图片][1]
+[1]:http://ww3.sinaimg.cn/mw690/93ec7a47tw1e55ir6iw8vj20h90eggnj.jpg
 
 
 
