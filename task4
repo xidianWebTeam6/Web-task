@@ -1,9 +1,13 @@
-Web-task
-========
 直接把一个URL显示为超级连接：
 
 也可以这样：[图灵社区](http://www.ituring.com.cn)
 
+图像和链接非常类似，区别在开头加一个惊叹号： ![这是一个Logo图像](http://www.turingbook.com/Content/img/Turing.Gif)
+
 此外，还可以以索引方式把url都列在文章的最后，例如这样：
-![use case][3]
-[3]:http://fmn.xnpic.com/fmn056/20130529/2220/original_b4w4_72400000221d118c.jpg
+
+[图灵社区][1]
+![图灵社区Logo][2]
+
+[1]:http://www.ituring.com.cn
+[2]:http://www.ituring.com.cn/Content/img/Turing.Gif
