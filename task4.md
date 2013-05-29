@@ -1,36 +1,6 @@
-直接把一个URL显示为超级连接：
+需求建模
 
-也可以这样：[图灵社区](http://www.ituring.com.cn)
+用例建模
 
-图像和链接非常类似，区别在开头加一个惊叹号： ![这是一个Logo图像](http://www.turingbook.com/Content/img/Turing.Gif)
-
-此外，还可以以索引方式把url都列在文章的最后，例如这样：
-
-[图灵社区][1]
-![图灵社区Logo][2]
-
-[1]:http://www.ituring.com.cn
-[2]:http://www.ituring.com.cn/Content/img/Turing.Gif
-
->表示引用文字内容。
-
-
-
-
-#表示这是一级标题
-##表示这是二级标题
-###表示这是三级标题
-……
-###### 最小是六级标题
-
-
-
-
-也可以这样表示大标题
-=
-
-
-
-
-这样表示小标题
--
+![用户用例][1]
+[1]:http://fmn.rrimg.com/fmn064/20130529/2345/original_YlO4_5cd000000e0b125f.jpg
