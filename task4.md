@@ -91,6 +91,8 @@
 
 5.序列图
 （用户部分）
+
+
 ![序列图1][41]
 [41]:http://ww2.sinaimg.cn/mw690/492f9bd7jw1e56qllixnbj20db0cpwey.jpg
 
