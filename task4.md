@@ -42,6 +42,10 @@
 ![订阅信息][19]
 [19]:http://fmn.xnpic.com/fmn057/20130529/2345/original_oQMt_774000000def1260.jpg
 
+![查找好友][20]
+[20]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710066?large=fmn.xnpic.com/fmn057/20130530/2130/original_aCtm_5e43000018ca1190.jpg
+
+
 3.类图
 
 ![类图1][3]
@@ -70,3 +74,5 @@
 
 ![顺序图2][10]
 [10]:http://fmn.xnpic.com/fmn057/20130530/2000/large_ilKB_5d43000010b51190.jpg
+
+
