@@ -9,9 +9,12 @@
 [2]:http://fmn.xnpic.com/fmn057/20130530/2000/original_dVs6_0fe1000010ae118c.jpg
 
 2.活动图
-管理者
+
+（管理者部分）
+
 ![发布信息][11]
 [11]:http://fmn.xnpic.com/fmn056/20130529/2340/original_DyFu_77c000000de11260.jpg
+
 
 ![屏蔽言论/冻结用户][12]
 [12]:http://fmn.rrfmn.com/fmn059/20130529/2345/original_ujDC_764c00000df31260.jpg
@@ -22,7 +25,8 @@
 ![在线回答][14]
 [14]:http://fmn.rrfmn.com/fmn058/20130529/2340/original_SRDa_779000000de81260.jpg
 
-用户
+（用户部分）
+
 ![注册][15]
 [15]:http://fmn.xnpic.com/fmn056/20130529/2340/original_xzlf_77a000000de61260.jpg
 
