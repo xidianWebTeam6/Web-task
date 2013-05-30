@@ -91,37 +91,37 @@
 
 5.序列图
 （用户部分）
-![用户登录序列图][11]
-[11]:http://photo.weibo.com/1227856855/photos/detail/photo_id/3583797772853224#3583797768658820
+![序列图1][11]
+[11]:http://ww2.sinaimg.cn/mw690/492f9bd7jw1e56qllixnbj20db0cpwey.jpg
 
-![用户登录序列图][12]
-[12]:
+![序列图2][12]
+[12]:http://ww3.sinaimg.cn/mw690/492f9bd7jw1e56qlkzgh6j20d70coaae.jpg
 
-![用户登录序列图][13]
-[13]:
+![序列图3][13]
+[13]:http://ww4.sinaimg.cn/mw690/492f9bd7jw1e56qlkdh1yj20dx0craak.jpg
 
-![用户登录序列图][14]
-[14]:
+![序列图4][14]
+[14]:http://ww4.sinaimg.cn/mw690/492f9bd7jw1e56qljw6vbj20fd0d5js1.jpg
 
-![用户登录序列图][15]
-[15]:
+![序列图5][15]
+[15]:http://ww2.sinaimg.cn/mw690/492f9bd7jw1e56qljdahlj20fq0dadgi.jpg
 
-![用户登录序列图][16]
-[16]:
+![序列图6][16]
+[16]:http://ww2.sinaimg.cn/mw690/492f9bd7jw1e56qlixhk2j20fq0d2gma.jpg
 
-![用户登录序列图][17]
-[17]:
+![序列图7][17]
+[17]:http://ww1.sinaimg.cn/mw690/492f9bd7jw1e56qlii4uyj20fi0d9t9d.jpg
 
-![用户登录序列图][18]
-[18]:
+![序列图8][18]
+[18]:http://ww1.sinaimg.cn/mw690/492f9bd7jw1e56qlhz0r7j20f50d374y.jpg
 
-![用户登录序列图][19]
-[19]:
+![序列图9][19]
+[19]:http://ww1.sinaimg.cn/mw690/492f9bd7jw1e56qlhk2euj20dt0clq3a.jpg
 
-![用户登录序列图][20]
-[20]:
+![序列图10][20]
+[20]:http://ww4.sinaimg.cn/mw690/492f9bd7jw1e56qlh1e6fj20cs0cyaal.jpg
 
-![用户登录序列图][21]
-[21]:
+![序列图11][21]
+[21]:http://ww3.sinaimg.cn/mw690/492f9bd7jw1e56qlgldthj20bt0cfgly.jpg
 
 
