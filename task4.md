@@ -43,22 +43,22 @@
 [19]:http://fmn.xnpic.com/fmn057/20130529/2345/original_oQMt_774000000def1260.jpg
 
 ![查找好友][20]
-[20]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710066?large=fmn.xnpic.com/fmn057/20130530/2130/original_aCtm_5e43000018ca1190.jpg
+[20]:http://photo.renren.com/photo/352965376/album-882496319#photoOwner=352965376?photoId=7192710066?large=fmn.xnpic.com/fmn057/20130530/2130/original_aCtm_5e43000018ca1190.jpg
 
 ![查找信息][21]
-[21]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710065?large=fmn.rrimg.com/fmn063/20130530/2130/original_6nWz_2970000018c1118f.jpg
+[21]:http://photo.renren.com/photo/352965376/album-882496319#photoOwner=352965376?photoId=7192710065?large=fmn.rrimg.com/fmn063/20130530/2130/original_6nWz_2970000018c1118f.jpg
 
 ![聊天][22]
-[22]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710064?large=fmn.rrimg.com/fmn062/20130530/2130/large_msGM_0e9f000018dc118c.jpg
+[22]:http://photo.renren.com/photo/352965376/album-882496319#photoOwner=352965376?photoId=7192710064?large=fmn.rrimg.com/fmn062/20130530/2130/large_msGM_0e9f000018dc118c.jpg
 
 ![浏览历史记录][23]
-[23]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710063?large=fmn.rrimg.com/fmn064/20130530/2130/original_OEwm_714100001639125d.jpg
+[23]:http://photo.renren.com/photo/352965376/album-882496319#photoOwner=352965376?photoId=7192710063?large=fmn.rrimg.com/fmn064/20130530/2130/original_OEwm_714100001639125d.jpg
 
 ![收藏信息][24]
-[24]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710062?large=fmn.rrimg.com/fmn060/20130530/2130/original_oZ8p_43dd000018f41191.jpg
+[24]:http://photo.renren.com/photo/352965376/album-882496319#photoOwner=352965376?photoId=7192710062?large=fmn.rrimg.com/fmn060/20130530/2130/original_oZ8p_43dd000018f41191.jpg
 
 ![提问][25]
-[25]:http://photo.renren.com/photo/352965376/album-882496319?uploadType=1#photoOwner=352965376?photoId=7192710061?large=fmn.xnpic.com/fmn057/20130530/2130/original_64CY_5dc3000018d31190.jpg
+[25]:http://photo.renren.com/photo/352965376/album-882496319#photoOwner=352965376?photoId=7192710061?large=fmn.xnpic.com/fmn057/20130530/2130/original_64CY_5dc3000018d31190.jpg
 
 3.类图
 
