@@ -66,27 +66,27 @@
 [3]:http://fmn.rrimg.com/fmn065/20130530/1955/original_Ml0t_29600000108b118f.jpg
 
 ![类图2][4]
-[4]:http://fmn.rrimg.com/fmn064/20130530/1955/original_ycA0_4527000010941191.jpg
+[4]:http://fmn.rrimg.com/fmn063/20130530/2225/original_fXV1_0ee000001eaf118c.jpg
 
 4.顺序图
 （管理者部分）
 
 ![顺序图1][5]
-[5]:http://fmn.rrfmn.com/fmn058/20130530/2000/large_HURW_0ed0000010b2118c.jpg
+[5]:http://fmn.xnpic.com/fmn057/20130530/2225/original_B99T_28d000001e8c118f.jpg
 
 ![顺序图2][6]
-[6]:http://fmn.rrfmn.com/fmn059/20130530/2000/large_k19x_2900000010a9118f.jpg
+[6]:http://fmn.rrimg.com/fmn062/20130530/2225/original_AMTh_0e5800001ee4118c.jpg
 
 ![顺序图3][7]
-[7]:http://fmn.rrimg.com/fmn061/20130530/2000/large_wqwC_4494000010be1191.jpg
+[7]:http://fmn.xnpic.com/fmn057/20130530/2225/original_kRwR_0f0000001ec2118c.jpg
 
 ![顺序图4][8]
-[8]:http://fmn.rrimg.com/fmn061/20130530/2000/large_5JvT_0f4a000010a7118c.jpg
+[8]:http://fmn.rrimg.com/fmn061/20130530/2225/original_m8qI_441400001eba1191.jpg
 
 ![顺序图2][9]
-[9]:http://fmn.rrfmn.com/fmn058/20130530/2000/large_HZIr_28e000001094118f.jpg
+[9]:http://fmn.rrfmn.com/fmn059/20130530/2225/original_IRpi_5d7300001ece1190.jpg
 
 ![顺序图2][10]
-[10]:http://fmn.xnpic.com/fmn057/20130530/2000/large_ilKB_5d43000010b51190.jpg
+[10]:http://fmn.rrfmn.com/fmn059/20130530/2225/original_7W5J_449400001eb91191.jpg
 
 
