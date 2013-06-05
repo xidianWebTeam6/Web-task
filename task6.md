@@ -50,11 +50,46 @@ Web应用的主导者是用户，尽全力做好呈现在用户眼前的设计�
 
 （1）页面设计
 
-
-单页面展示内容不超过7屏。图片和文字是向用户介绍应用程序功能的很好的方式，但如果资源允许的话，视频将是一个更优方案。提供视频URL链接，保证单页面刷新速度<2s。
+单页面展示内容不超过7屏。图片和文字是向用户介绍应用程序功能的很好的方式，但如果资源允许的话，视频将是一个更优方案。提供视频URL链接，保证单页面刷新速度小于2s。
 
 
 这里我们视频的设计模仿GoodBarry
+
+
+![视频1][1]
+[1]:http://fmn.rrimg.com/fmn061/20130605/2025/original_viTS_59bd00002f96118f.jpg
+
+![视频2][2]
+[2]:http://fmn.rrimg.com/fmn061/20130605/2025/original_bY8E_6ba400002fe11191.jpg
+
+![界面1][3]
+[3]:http://fmn.xnpic.com/fmn056/20130605/2025/original_4bVH_291a00002fba118c.jpg
+
+![界面2][4]
+[4]:http://fmn.xnpic.com/fmn057/20130605/2025/original_Nslv_6b7400002fdd1191.jpg
+
+![边缘阴影][5]
+[5]:http://fmn.rrimg.com/fmn060/20130605/2025/original_lviH_41000000d730125d.jpg
+
+![留白1][6]
+[6]:http://fmn.rrimg.com/fmn066/20130605/2025/original_77SV_2a1a00002f9e118c.gif
+
+![留白2][7]
+[7]:http://fmn.rrfmn.com/fmn058/20130605/2025/original_krpk_2a4a00002fae118c.jpg
+
+![按钮][8]
+[8]:http://fmn.rrimg.com/fmn060/20130605/2025/original_Ivf3_046b000032561190.jpg
+
+![情景导航][9]
+[9]:http://fmn.rrimg.com/fmn065/20130605/2025/original_mq6Q_051b0000327c1190.jpg
+
+![关键工功能][10]
+[10]:http://fmn.xnpic.com/fmn057/20130605/2025/large_48YY_6bf400002fc31191.jpg
+
+
+
+
+
 
 
 
