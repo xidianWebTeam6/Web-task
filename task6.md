@@ -63,7 +63,7 @@ Web应用的主导者是用户，尽全力做好呈现在用户眼前的设计�
 [2]:http://fmn.rrimg.com/fmn061/20130605/2025/original_bY8E_6ba400002fe11191.jpg
 
 
-对于框架设计采用HTML技术，主体<body></body> 表格<table></table> 框架布局<frame></frame> 标题<title></title> 链接<link /> js<script_></script_>
+对于框架设计采用HTML技术，主体<body></body> 表格table /table 框架布局 frame /frame 标题title /title 链接link / js script /script
 
 
 前段我们采用jQuery设计，包括全景图片，以及框架设计。设计理念优先级运行速度大于展示设计，对于可以用CSS实现的，不用Js实现，以提升速度。对于首页的设计我们的理念是速度大于美观。
